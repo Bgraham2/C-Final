@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="E:\CSProjects\wk10_EmptyWeb\PVTest\PVTests.nunit" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-10-22" time="21:29:23">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="E:\NUnit-2.6.4\bin" machine-name="PVHU-103D-D16" user="S0623771" user-domain="MCCKC" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Project" name="E:\CSProjects\wk10_EmptyWeb\PVTest\PVTests.nunit" executed="True" result="Success" success="True" time="12.493" asserts="0">
+    <results>
+      <test-suite type="Assembly" name="E:\CSProjects\wk10_EmptyWeb\PVTest\bin\Debug\PVTest.dll" executed="True" result="Success" success="True" time="12.485" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="PVTest" executed="True" result="Success" success="True" time="12.484" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="TestWebUser" executed="True" result="Success" success="True" time="12.482" asserts="0">
+                <results>
+                  <test-case name="PVTest.TestWebUser.InstantiateUser" executed="True" result="Success" success="True" time="0.009" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

@@ -5,7 +5,7 @@ This site is a simple library system. Users can create an account and login and 
 
 dbo files are create table files for the program. The usp files are stored producures used to insert, update, select, and detele data from the tables.
 
-THe PVUtil folder container the webhelper class which veriies password strength. It aslo contains the pvutil class which ncan be used for module testing.
+THe PVUtil folder container the webhelper class which verifies password strength. It aslo contains the pvutil class which can be used for module testing.
 pvlogger is for logging but it is not implemented yet. Bcrypt contains the salt code used by pvencrypter to encrypt passwords.
 
 PVtest folder contains the config file and codebehind for the module testing. Becasue testing was complete when turned in its not active anywhere.

@@ -1,4 +1,4 @@
-# C-Final
+# C#-Final
 C# .Net Final Project
 
 This site is a simple library system. Users can create an account and login and check out books. Admins can update logins, create new admins, update book inventory, add or remove books, check for overdue books.

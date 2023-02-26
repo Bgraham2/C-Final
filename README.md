@@ -14,8 +14,8 @@ The classes located in the PVService folder take the object passed to the its re
 
 The classes located in PVDomain takes input from the aspx pages and creates objects to be passed to the dao's.
 
-The mapper classes ( inherit from the base mapper) in PVdata folder takes the objects sent to the dao's then validates the data and returns the validated object to the dao.
-The baseDao set the connection for hte child dao's. The dao classes takes the ojbect from the mapper and then calls the correct stored procedure to insert, update, select, or delete data from the Database.
+The mapper classes (inherit from the base mapper) in PVdata folder takes the objects sent to the dao's then validates the data and returns the validated object to the dao.
+The baseDao set the connection for the child dao's. The dao classes takes the ojbect from the mapper and then calls the correct stored procedure to insert, update, select, or delete data from the Database.
 
 
 The final folder holds all the aspx pages and their corresponding codebehind.
